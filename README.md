@@ -1,5 +1,5 @@
 # MS-Infinite-Scroll
-Allow your web pages to continually load articles whilst updating the url page number.
+Allows your WordPress pages to continually load articles whilst updating the url page number.
 
 **== Installation ==**
 
